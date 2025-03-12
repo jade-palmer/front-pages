@@ -3,10 +3,10 @@
   "created_at": "2025-03-12T20:01:06.821Z",
   "created_by": "jade-palmer",
   "title": "Front Page Tests",
-  "updated_at": "jade-palmer",
-  "updated_by": "2025-03-12T20:01:06.821Z",
+  "updated_at": "2025-03-12T20:03:05.986Z",
+  "updated_by": "jade-palmer",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
