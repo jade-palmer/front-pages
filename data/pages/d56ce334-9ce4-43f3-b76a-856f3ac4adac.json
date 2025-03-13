@@ -4,6 +4,38 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "This format would make the page fairly long (with 25 videos to upload) BUT does leave room for more information to be displayed beside the photo (recording name, description, watch party yes/no/participants, date, etc.) "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "The SSHRC-funded SpokenWeb partnership aims to develop coordinated and collaborative approaches to literary historical study, digital development, and critical and pedagogical engagement with diverse collections of literary sound recordings from across Canada and beyond."
         }
       ]
@@ -21,6 +53,30 @@
       "children": [
         {
           "text": "The Enough Said Reading Series was active in Montreal between 1995 and 1996, and in a few short years became a very big part of the spoken word scene in the city. This exhibition both provides a platform to host the videos while also offering unique insight into what the performers---many of whom have made a career through their writing and performances---feel about the events."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -162,6 +218,14 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "Includes annotations from a watch party with Anne Diamond, Fortner Anderson, and Mitsiko Miller."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": "1995-12-01",
                   "italic": true
                 }
@@ -214,15 +278,6 @@
               "children": [
                 {
                   "bold": true,
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "bold": true,
                   "text": "Highlights_Part1"
                 }
               ]
@@ -232,6 +287,14 @@
               "children": [
                 {
                   "text": "A compilation video featuring clips from ga press, Lollapalooza Book Launch, Skarstedt_Suderman, and Diamond_McGrail"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "No watch party was held."
                 }
               ]
             },
@@ -348,7 +411,7 @@
   "created_at": "2025-03-12T20:01:06.821Z",
   "created_by": "jade-palmer",
   "title": "Front Page Tests",
-  "updated_at": "2025-03-13T16:22:59.680Z",
+  "updated_at": "2025-03-13T16:29:31.018Z",
   "updated_by": "jade-palmer",
   "autogenerate": {
     "enabled": false,
